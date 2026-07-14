@@ -29,6 +29,12 @@ The workbook is structured to facilitate clean data imports into data processing
 
 ---
 
+
+## Key Results & Achievements
+
+* **Macroeconomic Consolidation**: Successfully compiled multi-year macroeconomic variables (including GDP growth, inflation indices, and fiscal metrics) into a single, clean tabular workbook.
+* **Analysis-Ready Schema**: Structured the dataset sheets to be immediately compatible with Python Pandas and R pipelines, eliminating data pre-processing overhead and parsing errors for modeling.
+
 ## Usage
 
 To view or analyze the dataset:
